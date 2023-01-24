@@ -5,6 +5,10 @@
 
 /*colors: orange-#E28B36, blue-#6EB3D6, beige-#B5A47B*/
 
+html {
+	scroll-behavior: smooth;
+}
+
 #container {
 	font-family: 'Lilita One', cursive, Helvetica, Arial, sans-serif;
 	text-align: center;
